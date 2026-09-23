@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 408 80" role="img" aria-labelledby="title desc">
+  <title id="title">Materia y Código</title>
+  <desc id="desc">Monograma M azul con un punto naranja, junto al nombre Materia y Código.</desc>
+  <rect x="0" y="0" width="80" height="80" rx="18" fill="#1A2A6C"/>
+  <path d="M17 57V26l23 21 23-21v31" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="40" cy="47" r="5.5" fill="#F39C12"/>
+  <text x="100" y="36" fill="#1A2A6C" font-family="Merriweather, Georgia, serif" font-weight="700" font-size="26">Materia</text>
+  <text x="100" y="65" fill="#1A2A6C" font-family="Merriweather, Georgia, serif" font-weight="700" font-size="26">y Código</text>
+</svg>
